@@ -1,15 +1,13 @@
 👋 Hello, I'm Muhammad Sohaib!
 
-🎓 Software Engineering Student | 🚀 App & Web Developer
+🎓 Software Engineering Student | 🚀 Experienced Software & Web Engineer
 
-📚 Constantly learning, growing, and exploring the world of software development. I'm passionate about creating meaningful applications and websites that make a positive impact on people's lives.
+📚 I have hands-on experience in front-end technologies like HTML, CSS, JavaScript, and React.js, as well as back-end technologies such as Java Spring, Python Flask and FastAPI, and C# ASP.NET Core. I am passionate about creating impactful applications and websites that improve people's lives.
 
-💻 Currently diving deep into full-stack web development, honing my skills in front-end technologies like HTML, CSS, JavaScript, and React, while also delving into server-side technologies like Spring, ASP.NET Core, Node.js and Express.
+💻 Currently, I'm diving deep into machine learning and deep learning, exploring the fascinating world of AI to enhance my development skills and create intelligent applications.
 
-📱 Mobile app development is my other love. Building exciting and intuitive Android apps using Kotlin/Java brings me immense joy and fulfillment.
+🌱 I'm open to collaboration and eager to contribute to inspiring projects. Let's connect and build something amazing together!
 
-🌱 Open to collaboration and eager to contribute to inspiring projects. Let's connect and build something amazing together!
-
-📫 You can reach me at: mohammadsohaib432@gmail.com or check out my portfolio at [your_portfolio_link].
+📫 You can reach me at: mohammadsohaib6078@gmail.com.
 
 Happy coding! 😊
